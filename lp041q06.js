@@ -13,3 +13,5 @@ if (int1 > int2 || int2 > int1){
     
     console.log(``)
 }
+
+//Comentário adicionado dia 17/06 às 09:23
