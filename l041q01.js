@@ -17,3 +17,4 @@ if(num1 > 20) {
 
 console.log("Fim do programa !")
 
+// Outro comentário às 09:47
