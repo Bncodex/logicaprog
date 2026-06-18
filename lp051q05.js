@@ -13,6 +13,6 @@ let num = 3
 let i = 1; //contador
 
 while (i <= 10) {
-    console.log (`A tabuado do número ${num} x ${i} é: ${num*i}`)
+    console.log (`A tabuada do número ${num} x ${i} é: ${num*i}`)
     i = i + 1;
 }
