@@ -7,3 +7,4 @@ function calcularTriplo(num) {
     
 }
 console.log (calcularTriplo(10));
+

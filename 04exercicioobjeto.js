@@ -16,3 +16,6 @@ if (aluno.matricula) {
 } else {
     console.log ("A matrícula não está ativa")
 }
+
+
+console.log (aluno)
